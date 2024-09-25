@@ -1,5 +1,5 @@
 # xLeet
-Encountered filenames in the wild: `.xl.php`, `.xleet.php`
+Encountered filenames in the wild: `.xl.php`, `.xleet.php`  
 SHA256: `56fe2502f2ed1c9c803300cdaa25377c4a151201c0ba07926382e84b76cabede`
 
 ## Decoding
