@@ -1,5 +1,6 @@
 # ORVX
 Encountered filenames in the wild: `ORVX-*.php`  
+SHA256: `f81ea6f0e526bf54006856a7f61f45a2a3e2a7a8a8cc1ba071269d4ec498de1c`
 
 ## Decoding
 This shell has the most complex encoding of all variants I've found. If you only need the password you can always find it at the end of the file in plaintext (in this file `$shellpassword="BTI3Tn8h3r"`).
