@@ -1,5 +1,6 @@
 # LuFix
 Encountered filenames in the wild: `luuf.php`, `lufix.php`, `l.php`  
+SHA256: 0c32b8f6679f8e0821bb344c18b88fcff84c8a2b3e0fbe78ad296197fb1ed000
 
 ## Decoding
 Another shell that is boringly easy to decode.
