@@ -1,4 +1,5 @@
-<?php function decode($s) {
+<?php 
+function decode($s) {
     $i = 0;
     while (strpos($s, 'eval($') !== false && $i < 31) {
         eval(str_replace('eval($', '$s = ($', $s));
