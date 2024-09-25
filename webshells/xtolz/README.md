@@ -1,4 +1,4 @@
-# xtolz
+# 0Z3X 
 Encountered filenames in the wild: `.xtolz.php`  
 
 ## Decoding
