@@ -1,4 +1,7 @@
-# ORVX Decoding
+# ORVX
+Encountered filenames in the wild: `ORVX-*.php`  
+
+## Decoding
 This shell has the most complex encoding of all variants I've found. If you only need the password you can always find it at the end of the file in plaintext (in this file `$shellpassword="BTI3Tn8h3r"`).
 
 The shell depends on the code being on a single line and a hidden checksum (the plaintext one in the comment is a decoy). But we can decode a few parts without tripping the checksum check, which is enough to eliminate the checksum check and decode the rest. Making a copy of the encoded file first is a good idea to make lookups during the process easier.
