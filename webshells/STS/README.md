@@ -1,5 +1,6 @@
 # Smart Tools Shop
 Encountered filenames in the wild: `sts.php`  
+SHA256: `aa69c16b7a358a8feb8414a2b3b9bf9a080051ca7dbc375dbfaa3de43444a0bf`
 
 ## Decoding
 Yet another futile encoding attempt.
